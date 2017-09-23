@@ -54,5 +54,8 @@ Type **ls** to ensure that you are inside the directory that contains newsdata.p
 Now type **psql -d news -f newsdata.sql** to initialize the database and fill it up.
 Now type **psql -d news -f useful.sql** to create the functions and the views.
 Now type **python newsdata.py** to get results.
+
+![](https://i.imgur.com/UnDod5E.png)
+
 You get a well formatted output of the necessary informations
 

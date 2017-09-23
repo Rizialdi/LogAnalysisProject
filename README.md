@@ -37,6 +37,10 @@ This will give you a directory named **LogAnalysisProject** complete with the so
 At this point you need to [download newsdata.sql file](https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip), unzip it and put it on
 the directory named LogAnalysisProject.
 
+Snapshot of newsdata.sql:
+
+![](https://i.imgur.com/3Mj66NQ.png)
+
 
 ## Run the virtual machine!
 
